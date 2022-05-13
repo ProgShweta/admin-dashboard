@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 25px;
+}
+
+label{
+   position: absolute;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
